@@ -1,1 +1,2 @@
-# pesquisa_paises
+# Pesquisa de Países
+Ultilizando: Bootstrap, JS e API Rest
